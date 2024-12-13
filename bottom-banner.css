@@ -1,0 +1,17 @@
+.bottom-banner {
+    display: flex;
+    align-items: center;
+    width: 1263px;
+    height: 55px;
+    margin-left: -8px;
+    margin-top: -7px;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: lightslategray;
+    color: white;
+}
+
+.bottom-banner > .banners {
+    border: 1px solid lightgray;
+    padding: 10px 78px;
+}
