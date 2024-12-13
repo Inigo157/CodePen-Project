@@ -1,0 +1,17 @@
+.btn {
+    background-color: rgb(70, 83, 96);
+    justify-content: space-between;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 550;
+    padding: 8px 15px;
+    transition: none;
+    height: 45px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 25px;
+}
+
+.buttons {
+    display: inline-flex;
+}
